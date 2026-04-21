@@ -1,0 +1,8 @@
+artifact_location: file:///Users/aakashdoli/Projects/fraud_detection_pipeline/mlruns/772243942102580583
+creation_time: 1776800851100
+experiment_id: '772243942102580583'
+last_update_time: 1776800851100
+lifecycle_stage: active
+name: Fraud_Detection_IEEE_CIS
+trace_location: null
+workspace: default

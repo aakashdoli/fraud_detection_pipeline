@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aakashdoli/Projects/fraud_detection_pipeline/mlruns/772243942102580583/models/m-20f697748ce04eed8ea757673835035d/artifacts
+creation_timestamp: 1776801216575
+experiment_id: '772243942102580583'
+last_updated_timestamp: 1776801218658
+model_id: m-20f697748ce04eed8ea757673835035d
+model_type: null
+name: model
+source_run_id: eb06d52e718149dd979781638927b784
+status: 2
+status_message: null

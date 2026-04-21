@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aakashdoli/Projects/fraud_detection_pipeline/mlruns/772243942102580583/cce646b9db22422b8dd076ba16eb8b01/artifacts
+end_time: 1776800858320
+entry_point_name: ''
+experiment_id: '772243942102580583'
+lifecycle_stage: active
+run_id: cce646b9db22422b8dd076ba16eb8b01
+run_name: XGBoost_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776800851203
+status: 3
+tags: []
+user_id: aakashdoli

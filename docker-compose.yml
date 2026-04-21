@@ -1,11 +1,15 @@
 version: '3.8'
 
 services:
-  fraud-api:
-    build: .
+  fraud-detection-api:
+    # Build the image using the Dockerfile in the current directory
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Map host port 8000 to container port 8000
     ports:
       - "8000:8000"
-    volumes:
-      - .:/app
-    environment:
-      - ENV=development
+    # Set the container name for easier identification
+    container_name: fraud_api_container
+    # Ensure the container restarts if it crashes
+    restart: always
